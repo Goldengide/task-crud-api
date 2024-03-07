@@ -20,6 +20,9 @@ $ npm run start
 $ npm run start:prod
 ```
 
+
+
+
 ## Test
 
 ```bash
@@ -35,6 +38,8 @@ $ npm run test
 Please refer to the MongoDB documentation for comprehensive usage and reference: [Click here](https://docs.mongodb.com/).
 Make sure to do your configuration in src/app.module.ts
 
+# After setting up go to:
+http://127.0.0.1:3000/graphql
 
 ## Interacting with the GraphQl Interface
 
